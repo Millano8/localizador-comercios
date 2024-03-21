@@ -1,0 +1,1 @@
+API Rest que permite dar de alta y listar distintos comercios con datos flexibles, incluyendo GEODATA. También el repositorio posee un buscador web usando MapBox, que te muestra el lugar que buscaste en el mapa y todos los comercios cercanos a ese punto.
